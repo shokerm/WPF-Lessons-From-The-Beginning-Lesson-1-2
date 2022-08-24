@@ -11,4 +11,3 @@ ____________________ <br>
    <a href="https://www.g4a.co.il/" target="_blank">
         <img width="20%" src="https://www.g4a.co.il/wp-content/uploads/2020/07/logo-1-300x172.jpg" alt="G4A">
     </a>
-   <a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a>
